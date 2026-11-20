@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.40",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.40/DARK-MUSIC.apk",
-  "sha256": "01e50c2005e37f8057af0db56fe3db636e3f6df95b727c4d820913ec7d9f2954",
-  "changelog": "Cerca nella libreria per titolo, artista o album, anche senza accenti.\nOrdina i brani per aggiunta, più recenti, titolo o artista.\nBackup e ripristino di libreria, preferiti, playlist e cartelle in un file."
+  "versionCode": 42,
+  "versionName": "1.41",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.41/DARK-MUSIC.apk",
+  "sha256": "e18a0ce527999ad5c78392314bec0c7f6fca7c3d60fb8cbe15f054d7cb753868",
+  "changelog": "Scrobbling su Last.fm: collega il tuo account dalla Libreria e ogni brano ascoltato viene registrato."
 }
