@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.39/DARK-MUSIC.apk",
-  "sha256": "51f602d7b421031e8df389d0df8b6c24706c5782ebb9be8f65afd1f25700fb29",
-  "changelog": "Riprende da dove eri rimasto: coda, brano e posizione vengono ricordati anche dopo la chiusura dell'app.\nCache audio intelligente: i brani riascoltati partono subito e consumano meno dati.\nAggiornamenti più sicuri: l'app controlla l'integrità dell'APK prima di installarlo."
+  "versionCode": 41,
+  "versionName": "1.40",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.40/DARK-MUSIC.apk",
+  "sha256": "01e50c2005e37f8057af0db56fe3db636e3f6df95b727c4d820913ec7d9f2954",
+  "changelog": "Cerca nella libreria per titolo, artista o album, anche senza accenti.\nOrdina i brani per aggiunta, più recenti, titolo o artista.\nBackup e ripristino di libreria, preferiti, playlist e cartelle in un file."
 }
