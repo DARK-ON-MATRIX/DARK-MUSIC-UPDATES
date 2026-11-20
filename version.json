@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.37/DARK-MUSIC.apk",
-  "changelog": "DARK MUSIC 1.37\n- Ripristinata la barra del brano in riproduzione nella schermata delle playlist personali.\n- Ora puoi vedere titolo e artista e mettere in pausa/riprendere senza tornare indietro.\n- Toccando la barra si apre la schermata completa del lettore."
+  "versionCode": 39,
+  "versionName": "1.38",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.38/DARK-MUSIC.apk",
+  "changelog": "DARK MUSIC 1.38\n- Mini-player più grande e leggibile nelle playlist personali, in Miei brani, Tutti i brani e nelle cartelle.\n- Mostra copertina, titolo e artista del brano in riproduzione.\n- Comandi rapidi: precedente, play/pausa, stop e successivo.\n- Barra di avanzamento aggiornata durante la riproduzione.\n- Tocca copertina o informazioni del brano per aprire il lettore completo."
 }
