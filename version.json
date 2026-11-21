@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "1.44",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.44/DARK-MUSIC.apk",
-  "sha256": "aaf1c512db2eaa67c5611f7db75dd6b62c0d2d620651c5d7b758c44911f1c99e",
-  "changelog": "Radio automatica: quando finisce la coda, la musica continua con brani simili (si attiva e si spegne dalla Libreria).\nAndroid Auto: migliorata la ripresa dell'ultimo ascolto e il riconoscimento dell'app.\nBrani scaricati: ora suonano offline anche quando l'app parte dall'auto."
+  "versionCode": 46,
+  "versionName": "1.45",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.45/DARK-MUSIC.apk",
+  "sha256": "da74af666e9d126045afb28d8a639414fa9b653f545ef7b37a055069c668e712",
+  "changelog": "Musica online più stabile: buffer più ampio e ripresa automatica dallo stesso punto se la rete cade.\nAndroid Auto: logo e copertine anche nelle liste, titoli dei file più leggibili."
 }
