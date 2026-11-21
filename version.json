@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.41/DARK-MUSIC.apk",
-  "sha256": "e18a0ce527999ad5c78392314bec0c7f6fca7c3d60fb8cbe15f054d7cb753868",
-  "changelog": "Scrobbling su Last.fm: collega il tuo account dalla Libreria e ogni brano ascoltato viene registrato."
+  "versionCode": 43,
+  "versionName": "1.42",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.42/DARK-MUSIC.apk",
+  "sha256": "6edd8b2ccd5c618a2aff9f7fb6c72e26d8fd0c8b30d360a586b02489bae2321d",
+  "changelog": "Android Auto: sfoglia Preferiti, Playlist e Libreria dallo schermo dell'auto e avvia i brani.\nComandi vocali: \"riproduci ... su DARK MUSIC\" cerca nei tuoi preferiti e nella tua libreria."
 }
