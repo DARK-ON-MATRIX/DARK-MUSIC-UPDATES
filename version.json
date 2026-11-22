@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.48",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.48/DARK-MUSIC.apk",
-  "sha256": "e88063ea6c54189ea19f22eb230b274bd031bdc93d8b7a1480b432de6e527537",
-  "changelog": "Nuovo marchio in Home: DARK LEGION PRODUCTION · ONLY THE BEST, nei colori dell'accento scelto.\nSoundCloud: nuova fonte nella ricerca e classifica \"Popolari su SoundCloud\" in Home (si accende e si spegne dalla Libreria).\nSoundCloud funziona con coda, preferiti, playlist, download, radio, Last.fm e Android Auto."
+  "versionCode": 50,
+  "versionName": "1.49",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.49/DARK-MUSIC.apk",
+  "sha256": "7872b5b5d5cd3b372e7f8b513b1bf2e0b92247bd7f447313ebec18a5c8cdd24b",
+  "changelog": "DARK MUSIC – prossima versione\n\n• SoundCloud: aggiornato NewPipe Extractor alla versione 0.27.1, che corregge l'estrazione dei flussi audio AAC 96 kbps.\n• Home: aggiunte raccolte SoundCloud dedicate a Elettronica e Hip-Hop, oltre alla classifica Popolari.\n• Mantenuti ricerca SoundCloud, coda, preferiti, playlist, download, radio, Last.fm e Android Auto.\n\nNota: alcuni contenuti SoundCloud possono non essere riproducibili se richiedono accesso, sono soggetti a restrizioni territoriali o sono protetti da DRM."
 }
