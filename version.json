@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "1.49",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.49/DARK-MUSIC.apk",
-  "sha256": "7872b5b5d5cd3b372e7f8b513b1bf2e0b92247bd7f447313ebec18a5c8cdd24b",
-  "changelog": "DARK MUSIC – prossima versione\n\n• SoundCloud: aggiornato NewPipe Extractor alla versione 0.27.1, che corregge l'estrazione dei flussi audio AAC 96 kbps.\n• Home: aggiunte raccolte SoundCloud dedicate a Elettronica e Hip-Hop, oltre alla classifica Popolari.\n• Mantenuti ricerca SoundCloud, coda, preferiti, playlist, download, radio, Last.fm e Android Auto.\n\nNota: alcuni contenuti SoundCloud possono non essere riproducibili se richiedono accesso, sono soggetti a restrizioni territoriali o sono protetti da DRM."
+  "versionCode": 51,
+  "versionName": "1.50",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.50/DARK-MUSIC.apk",
+  "sha256": "238acb42f235f728f94e465455e06d5cbc5b9f1546c6551db00e337ab17a3f97",
+  "changelog": "DARK MUSIC 1.50 — SoundCloud playback fix\n\n- SoundCloud: prefer AAC HLS streams, the current SoundCloud streaming format.\n- ExoPlayer: add the Media3 HLS module.\n- Mark SoundCloud queue items as HLS before ExoPlayer creates the media source, while keeping local downloaded tracks unchanged.\n- Keep progressive HTTP as a compatibility fallback when SoundCloud still provides it.\n- Preserve the existing Home catalog, search, widget, Android Auto, playlists, favorites and other providers.\n\nNote: playback remains subject to SoundCloud track availability, regional restrictions and rights/DRM protection."
 }
