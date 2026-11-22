@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "1.47",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.47/DARK-MUSIC.apk",
-  "sha256": "447958b7d4696cdec4558561d1217df29bbee99b4040bd40c97d71fbcc77d8cd",
-  "changelog": "Colore d'accento: scegli tra azzurro, viola, verde, rosa, arancio e rosso dalla Libreria.\nTablet: la schermata resta una colonna ordinata al centro invece di allargarsi."
+  "versionCode": 49,
+  "versionName": "1.48",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.48/DARK-MUSIC.apk",
+  "sha256": "e88063ea6c54189ea19f22eb230b274bd031bdc93d8b7a1480b432de6e527537",
+  "changelog": "Nuovo marchio in Home: DARK LEGION PRODUCTION · ONLY THE BEST, nei colori dell'accento scelto.\nSoundCloud: nuova fonte nella ricerca e classifica \"Popolari su SoundCloud\" in Home (si accende e si spegne dalla Libreria).\nSoundCloud funziona con coda, preferiti, playlist, download, radio, Last.fm e Android Auto."
 }
