@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "1.46",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.46/DARK-MUSIC.apk",
-  "sha256": "7aa4e0d75b81248ebd3e1cffd709005d0afaabff24150fc9a552d5419332eec1",
-  "changelog": "Statistiche \"Wrapped\": ore di musica, ascolti, artisti e brani più ascoltati (ultimi 30 giorni o da sempre), dalla Libreria.\nWidget per la schermata home: brano in ascolto con indietro, play/pausa e avanti."
+  "versionCode": 48,
+  "versionName": "1.47",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.47/DARK-MUSIC.apk",
+  "sha256": "447958b7d4696cdec4558561d1217df29bbee99b4040bd40c97d71fbcc77d8cd",
+  "changelog": "Colore d'accento: scegli tra azzurro, viola, verde, rosa, arancio e rosso dalla Libreria.\nTablet: la schermata resta una colonna ordinata al centro invece di allargarsi."
 }
