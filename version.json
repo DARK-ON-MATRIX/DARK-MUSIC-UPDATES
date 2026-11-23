@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "1.50",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.50/DARK-MUSIC.apk",
-  "sha256": "238acb42f235f728f94e465455e06d5cbc5b9f1546c6551db00e337ab17a3f97",
-  "changelog": "DARK MUSIC 1.50 — SoundCloud playback fix\n\n- SoundCloud: prefer AAC HLS streams, the current SoundCloud streaming format.\n- ExoPlayer: add the Media3 HLS module.\n- Mark SoundCloud queue items as HLS before ExoPlayer creates the media source, while keeping local downloaded tracks unchanged.\n- Keep progressive HTTP as a compatibility fallback when SoundCloud still provides it.\n- Preserve the existing Home catalog, search, widget, Android Auto, playlists, favorites and other providers.\n\nNote: playback remains subject to SoundCloud track availability, regional restrictions and rights/DRM protection."
+  "versionCode": 52,
+  "versionName": "1.51",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.51/DARK-MUSIC.apk",
+  "sha256": "f575842c5b98c328f0d3868caa3e381749128fc9ed99c3130a5885b9fec56956",
+  "changelog": "SoundCloud: tolto il tasto Scarica (i brani si ascoltano in streaming).\nAudio in streaming più affidabile: l'elenco dei segmenti SoundCloud non viene più riusato dalla cache quando i suoi link sono scaduti.\nSe un brano non si può riprodurre, si passa subito al successivo invece di restare in silenzio.\nNuovo \"Registro errori\" nella Libreria: mostra e condivide ciò che è andato storto.\nLa chiave di sessione di Last.fm non finisce più nei backup su Google."
 }
