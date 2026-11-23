@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.51",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.51/DARK-MUSIC.apk",
-  "sha256": "f575842c5b98c328f0d3868caa3e381749128fc9ed99c3130a5885b9fec56956",
-  "changelog": "SoundCloud: tolto il tasto Scarica (i brani si ascoltano in streaming).\nAudio in streaming più affidabile: l'elenco dei segmenti SoundCloud non viene più riusato dalla cache quando i suoi link sono scaduti.\nSe un brano non si può riprodurre, si passa subito al successivo invece di restare in silenzio.\nNuovo \"Registro errori\" nella Libreria: mostra e condivide ciò che è andato storto.\nLa chiave di sessione di Last.fm non finisce più nei backup su Google."
+  "versionCode": 53,
+  "versionName": "1.52",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.52/DARK-MUSIC.apk",
+  "sha256": "9d44c69e7c1aca6e6899225fcc7ce011d19cde6047f2824d5ee3fb36df1deed9",
+  "changelog": "Android Auto: nuova scheda Home con Popolari, Novità e le raccolte di SoundCloud.\nHome riordinata: prima YouTube Music (con liste ripulite da mix e compilation lunghe), poi SoundCloud.\nIl marchio DARK LEGION PRODUCTION passa in fondo alla Home e nella finestra degli aggiornamenti.\nTolta la card \"Riprendi da dove avevi lasciato\": l'ultimo brano resta nel mini-player."
 }
