@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "1.52",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.52/DARK-MUSIC.apk",
-  "sha256": "9d44c69e7c1aca6e6899225fcc7ce011d19cde6047f2824d5ee3fb36df1deed9",
-  "changelog": "Android Auto: nuova scheda Home con Popolari, Novità e le raccolte di SoundCloud.\nHome riordinata: prima YouTube Music (con liste ripulite da mix e compilation lunghe), poi SoundCloud.\nIl marchio DARK LEGION PRODUCTION passa in fondo alla Home e nella finestra degli aggiornamenti.\nTolta la card \"Riprendi da dove avevi lasciato\": l'ultimo brano resta nel mini-player."
+  "versionCode": 54,
+  "versionName": "1.53",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.53/DARK-MUSIC.apk",
+  "sha256": "faa201fe66892c87bf65015c66da62897ceb9cb13622ec9d8bcb12cf6f584bc1",
+  "changelog": "Artisti preferiti: segui un artista dalla sua pagina, ritrovali nella Libreria e ascolta il \"Mix dei miei artisti\" (anche in Android Auto).\nIncolla nella ricerca il link di una playlist YouTube per aprirla e salvarla tutta come playlist.\nLe playlist lunghe ora si caricano fino a 500 brani invece di fermarsi ai primi."
 }
