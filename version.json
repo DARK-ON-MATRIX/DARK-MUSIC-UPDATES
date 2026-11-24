@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "1.53",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.53/DARK-MUSIC.apk",
-  "sha256": "faa201fe66892c87bf65015c66da62897ceb9cb13622ec9d8bcb12cf6f584bc1",
-  "changelog": "Artisti preferiti: segui un artista dalla sua pagina, ritrovali nella Libreria e ascolta il \"Mix dei miei artisti\" (anche in Android Auto).\nIncolla nella ricerca il link di una playlist YouTube per aprirla e salvarla tutta come playlist.\nLe playlist lunghe ora si caricano fino a 500 brani invece di fermarsi ai primi."
+  "versionCode": 55,
+  "versionName": "1.54",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.54/DARK-MUSIC.apk",
+  "sha256": "56f85f5fc83810e2e91a32e5c73c69df1fe17ecf815af8fc8c71428c3f44a6e0",
+  "changelog": "Android Auto: sezioni a griglia con grandi icone nei colori dell'accento e copertine per le playlist.\nHome: nuova riga \"Il tuo mix\" con i brani dei tuoi artisti preferiti.\nArtisti preferiti: puoi salvare il mix come playlist per vedere tutti i brani.\nPlaylist salvate da YouTube: nuovo tasto \"Aggiorna da YouTube\" per aggiungere i brani usciti dopo."
 }
