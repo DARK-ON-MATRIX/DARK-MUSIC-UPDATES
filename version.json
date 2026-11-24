@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "1.54",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.54/DARK-MUSIC.apk",
-  "sha256": "56f85f5fc83810e2e91a32e5c73c69df1fe17ecf815af8fc8c71428c3f44a6e0",
-  "changelog": "Android Auto: sezioni a griglia con grandi icone nei colori dell'accento e copertine per le playlist.\nHome: nuova riga \"Il tuo mix\" con i brani dei tuoi artisti preferiti.\nArtisti preferiti: puoi salvare il mix come playlist per vedere tutti i brani.\nPlaylist salvate da YouTube: nuovo tasto \"Aggiorna da YouTube\" per aggiungere i brani usciti dopo."
+  "versionCode": 56,
+  "versionName": "1.55",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.55/DARK-MUSIC.apk",
+  "sha256": "06dfe6b013599dd872909ac1f6d7624e5881781fb002802ea878f48e5e31287b",
+  "changelog": "Nuova schermata \"In coda\" nel player: vedi i prossimi brani, salta, riordina o togli quelli che non vuoi.\nRegistro errori più utile: per i file del telefono mostra nome, tipo e dimensione."
 }
