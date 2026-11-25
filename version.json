@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "1.56",
-  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.56/DARK-MUSIC.apk",
-  "sha256": "c643b08f665e4143a479f6425c61410f2beb9564051009b8a16d190b59a02fff",
-  "changelog": "Android Auto: la lente cerca anche su YouTube Music e SoundCloud, e il comando vocale \"riproduci [brano]\" funziona con qualsiasi canzone online.\nWidget: i tasti seguono il colore d'accento e compare la copertina del brano."
+  "versionCode": 58,
+  "versionName": "1.57",
+  "apkUrl": "https://github.com/DARK-ON-MATRIX/DARK-MUSIC-UPDATES/releases/download/v1.57/DARK-MUSIC.apk",
+  "sha256": "a1b5da6e3cbd7eae19da01b2530df99cd0a0fbf6ae5c814b7c8e54541ac39463",
+  "changelog": "Registro errori: non segnala più le interruzioni normali (per esempio quando salti un brano mentre si sta ancora caricando)."
 }
